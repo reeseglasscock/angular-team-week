@@ -23,7 +23,7 @@ Complete the steps below to clone the project on to your personal machine and ge
 Clone the repo from github to your machine
 
 ```
-git clone https://github.com/ryanjmurry/angular-team-week.git
+git clone https://github.com/reeseglasscock/citrus-cider-house.git
 ```
 
 This program is dependent that you already have node installed on your machine and node package manager. Afterwards run the install command.
