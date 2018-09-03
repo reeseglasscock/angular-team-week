@@ -10,6 +10,12 @@ A website concept for a cider house using Angular 6. Features include user revie
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
+## My Contribution
+
+I mainly worked on the feature that took in comments from customers that visited the site. Each comment gets stored in the firebase database and then placed into a CMS console that is made available on the backend where admins are authorized to make changes. I then added a feature where the admin can decide to post or delete the comments that are submitted. If the comments become published they appear in the carousel on the front end. 
+
+I also worked on styling and creating the tables on the admin side for both the comments section and the users section. 
+
 ### Installing
 
 Complete the steps below to clone the project on to your personal machine and get the application running.
